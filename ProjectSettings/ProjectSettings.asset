@@ -140,7 +140,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.63
+  bundleVersion: 0.3
   preloadedAssets:
   - {fileID: 11400000, guid: b3fee6199319a5c40a527df01cf07746, type: 2}
   - {fileID: 11400000, guid: 466e51d62c87f014cad1a520d9153aac, type: 2}
@@ -166,7 +166,7 @@ PlayerSettings:
   androidMinAspectRatio: 1
   applicationIdentifier: {}
   buildNumber:
-    Standalone: 0
+    Standalone: 3
     VisionOS: 0
     iPhone: 0
     tvOS: 0
