@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4414b5159fd4494dae40eedd72de6e4, type: 3}
+  m_Name: Boat
+  m_EditorClassIdentifier: 
+  index: 1
+  vehicleType: 1
+  vehicleDisplayHint: {fileID: 2038032196489607726, guid: 00e3eb8027a2c5e4ebef71c7e3f82aec, type: 3}
+  header: Square rig boat
+  description: You combined your sail with a proper boat for a better mobility. If
+    you find the right angle you can slowly go upwind
+  requiredItems:
+  - itemId: normal_fish
+    amount: 10
+  - itemId: seaweed
+    amount: 2
+  requiresHome: 0

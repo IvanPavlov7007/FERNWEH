@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Transition/Main Menu.unity
+    guid: a7dccc24a43977241aa3807a1ed530e0
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Transition/Transition General.unity
+    guid: 11d243d49cf2c8646b7d728ffea630b9
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Story/Level 0.unity
+    guid: b82223902b89d1d4184910589e91ce12
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Story/Level 1.unity
+    guid: 963b0b0d5c342304f829c44b6b0bfa65
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Story/Level 2.unity
+    guid: 7728677e1da34484face8ce48f7eb897
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Story/Level 3.unity
+    guid: b54d84789274c464ba9976493e7204c4
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Story/Level 4.unity
+    guid: c8f1628a46697f940ae03f6e30f13482
+  - enabled: 1
+    path: Assets/Sailboat/Scenes/Transition/Ending.unity
+    guid: d890805d7a752624e9267271eefcb8d2
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 326cd72ffbe088f408cdfa7c7c04b0f1, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: b3fee6199319a5c40a527df01cf07746, type: 2}
+  m_UseUCBPForAssetBundles: 0

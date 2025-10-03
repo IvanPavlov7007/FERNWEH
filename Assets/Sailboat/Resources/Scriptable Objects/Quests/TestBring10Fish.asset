@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c43a3a5559e98840b1da935b82ffcdb, type: 3}
+  m_Name: TestBring10Fish
+  m_EditorClassIdentifier: 
+  questId: collect 10 fish
+  questTitle: Fishing quest
+  questDescription: Fish 10 fish
+  tasks:
+  - taskId: fishing_quest_get_net
+    description: Get fishing net
+    taskType: 1
+    startingQuest: 1
+    targetId: fishing_net
+    targetAmount: 1
+    isCompleted: 1
+  - taskId: fishing_quest_collect_10_fish
+    description: Collect 10 fish
+    taskType: 1
+    startingQuest: 0
+    targetId: normal_fish
+    targetAmount: 10
+    isCompleted: 1
+  state: 3
+  nextQuests: []
+  reward:
+    items: []
+    dialogues: []
+    unlockQuests: []
+    flags: []

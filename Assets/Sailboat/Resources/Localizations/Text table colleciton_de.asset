@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Text table colleciton_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: a925357d044b5994b9dd7dfa6d57e733, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 244274506461184
+    m_Localized: Level Neustarten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223046068563968
+    m_Localized: "Der Ozean \u2014\r\neine herrische, ungez\xE4hmte Kraft.\r\nNiemand
+      wagte je, seine Herrschaft herauszufordern.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228932711313408
+    m_Localized: "Bewege den Cursor hierher und dr\xFCcke [Leertaste], um zu paddeln"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243295719485440
+    m_Localized: "Dr\xFCcke [j], um dein Logbuch zu \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243434378981376
+    m_Localized: "Lautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243558148698112
+    m_Localized: "[Leertaste] Flo\xDF leicht anschieben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243620861931520
+    m_Localized: "Dieses Flo\xDF hast du selbst gebaut. Dein Gro\xDFvater lebt jenseits
+      der Meerenge, und schon als Kind wolltest du ihn allein besuchen. Zwar haben
+      die Fischer in deinem Dorf richtige Boote, doch es gibt nur sehr wenige davon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243990623383552
+    m_Localized: "Dr\xFCcke [Q], um das Segel zu setzen oder zu bergen\n\nDas Segel
+      richtet sich immer nach dem Cursor\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244062887047168
+    m_Localized: "Du hattest immer diesen Gedanken: Was w\xE4re, wenn\u2026 der Wind
+      das Boot bewegt? Es klingt wie ein M\xE4rchen. Du hast versucht, ein haltbares
+      Tuch herzustellen, und endlich hast du es am Flo\xDF befestigt. Vielleicht
+      kannst du nun diese Gew\xE4sser \xFCberqueren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244706813374464
+    m_Localized: "Bewege die Maus, um das Segel zu steuern\r\n[Q] Segel setzen/bergen\r\n[Leertaste]
+      Flo\xDF leicht anschieben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244785913753600
+    m_Localized: "Dein Gro\xDFvater war erstaunt, als er sah, wie die wei\xDFen T\xFCcher
+      dein Gef\xE4hrt bewegten. \u201EDer Wind ist die wahre Gefahr, mein Junge.
+      Nicht das Wasser selbst\u201C, sagte er.\n\nDoch diesmal scheint der Wind dir
+      beizustehen \u2014 wenn du seinem Weg folgst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245508030296064
+    m_Localized: "Dr\xFCcke [A] und [D], um das Boot zu steuern,\n[Q] Segel setzen/bergen,\r\n[Leertaste],
+      um nach vorne zu paddeln"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245527877742592
+    m_Localized: "Ein Boot kann, dank seiner Form und des Wasserwiderstands, in spitzen
+      Winkeln zum Wind \u201Eschneiden\u201C und sogar leicht gegen ihn segeln."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245592423886848
+    m_Localized: "Bewege die Maus, um das Segel zu steuern\r\n[Q] Segel setzen/bergen\r\n[Leertaste]
+      Flo\xDF/Boot leicht anschieben\r\n[A/D] Boot steuern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245622421549056
+    m_Localized: "Die Fischer deines Archipels gerieten in eine Falle aus gef\xE4hrlichem
+      Wind. Nun ist es Zeit zu beweisen, dass deine Erfindung n\xFCtzlich ist. Seitdem
+      hast du ein richtiges Boot gebaut und dein Segel daran befestigt. Du nanntest
+      diese Erfindung \u201ESegelboot\u201C."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246017818587136
+    m_Localized: "Bringe die Fischer zur\xFCck auf ihre Inseln."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246156402585600
+    m_Localized: "Deine k\xFChnen Ideen wurden von der Gemeinschaft angenommen. Einige
+      Fischer baten dich sogar, sie zur\xFCck auf ihre Heimatinseln zu bringen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252475809427456
+    m_Localized: ENDE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252513210036224
+    m_Localized: Ivan Pavlov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252531203600384
+    m_Localized: Neu Starten?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252922813181952
+    m_Localized: Ivan Pavlov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253040262082560
+    m_Localized: In See stechen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253216297021440
+    m_Localized: "Der Wind\r\nkann die Kraft f\xFCr die Bewegung sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253342000312320
+    m_Localized: "Dr\xFCcke eine beliebige Taste"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253416235298816
+    m_Localized: "Der Wind\r\nkann zum Schicksal f\xFChren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253461886103552
+    m_Localized: 'Mit dem Wind
+
+      muss man rechnen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253617075351552
+    m_Localized: 'Der Wind
+
+      weht, wohin er will.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253673694261248
+    m_Localized: "So begann\r\ndeine Reise.\r\n\nWohin wird der Wind\r\ndich als
+      N\xE4chstes tragen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258462675070976
+    m_Localized: "Du bist noch nicht bereit, diesen Ort zu verlassen. Kehre zur\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219678528991232
+    m_Localized: FERNWEH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252491663896576
+    m_Localized: FERNWEH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279766782406656
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1730164340781056
+    m_Localized: "Bildschirmaufl\xF6sung w\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2401555775975424
+    m_Localized: Danke!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606355129319424
+    m_Localized: Seit dem letzten Mal hast du ein richtiges Boot mit Segel gebaut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606423223844864
+    m_Localized: "Die Fischer deines Archipels wurden vom gef\xE4hrlichen Wind eingeschlossen.
+      Bring sie in Sicherheit!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

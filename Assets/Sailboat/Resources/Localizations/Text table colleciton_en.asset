@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Text table colleciton_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a925357d044b5994b9dd7dfa6d57e733, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 219678528991232
+    m_Localized: FERNWEH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223046068563968
+    m_Localized: "The ocean\r\nis a sovereign, untamed force.\r\n\r\nNone have dared
+      to challenge its rule.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228932711313408
+    m_Localized: Put the cursor here and press [space] to paddle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243295719485440
+    m_Localized: Press [j] to open your sail journal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243434378981376
+    m_Localized: "Sound volume\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243558148698112
+    m_Localized: "[Space] to push the raft slightly\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243620861931520
+    m_Localized: "You\u2019ve made this raft by yourself. Your grandfather lives
+      across the water, and you always wanted to visit him by yourself. Although
+      the fishermen in your village have proper boats, there are quite few of them."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243990623383552
+    m_Localized: 'Press [Q] to haul or reef the sail
+
+
+      The sail always faces
+      the cursor'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244062887047168
+    m_Localized: "You\u2019ve always had this idea: what if\u2026 the wind\u2019s
+      blow is what moves the boat? Sounds like magic. You\u2019ve been trying to
+      make a durable material, and now you\u2019ve finally attached it to the raft.
+      Maybe now you\u2019ll cross these waters."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244274506461184
+    m_Localized: Restart Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244706813374464
+    m_Localized: "Move mouse to steer the sail\r\n[Q] to haul/reef the sail\r\n[Space]
+      to push the raft slightly\r\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244785913753600
+    m_Localized: "Your grandfather was amazed to see those white sheets moving your
+      vessel. \u201CThe wind is the real fear, my boy. Not the waters themselves,\u201D
+      he says.\r\n\nNevertheless, this time it seems the wind might give you a hand
+      \u2014 if you follow its path."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245508030296064
+    m_Localized: 'Press [A] and [D] to steer the boat,
+
+      [Q] to haul/reef the
+      sail,
+
+      [Space] to paddle forward'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245527877742592
+    m_Localized: A boat, due to water friction, can "slice" at wider angles to the
+      wind, and even slightly go upwind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245592423886848
+    m_Localized: "Move mouse to steer the sail\r\n[Q] to haul/reef the sail\r\n[Space]
+      to push the raft/boat slightly\r\n[A/D] to steer the boat\r\r\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245622421549056
+    m_Localized: "The fishermen from your archipelago got trapped by the dangerous
+      wind. Now it\u2019s time to prove your invention useful. Since last time, you
+      built a proper boat with a sail. You called it a \u201Csailboat\u201D.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246017818587136
+    m_Localized: Bring the fishermen back to their islands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246156402585600
+    m_Localized: "Your fancy thinking was accepted by most of the community. A couple
+      of fishermen even asked you to bring them back to their home islands.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252475809427456
+    m_Localized: "THE \n   END"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252491663896576
+    m_Localized: FERNWEH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252513210036224
+    m_Localized: by Ivan Pavlov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252531203600384
+    m_Localized: Restart?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252922813181952
+    m_Localized: by Ivan Pavlov
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253040262082560
+    m_Localized: Set Sail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253216297021440
+    m_Localized: "The wind\u2019s blow\r\nmight be a source of movement.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253342000312320
+    m_Localized: Press any button to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253416235298816
+    m_Localized: 'The path of the wind
+
+      might lead to destiny.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253461886103552
+    m_Localized: "The wind\r\nhas to be reckoned with.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253617075351552
+    m_Localized: "The wind\r\nblows where it will.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253673694261248
+    m_Localized: "That\u2019s how\r\nyour journey began.\r\n\r\nWhere will the wind\r\ntake
+      you in the future?\r\n\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258462675070976
+    m_Localized: You are not ready to leave this place yet, please go back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279766782406656
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1730164340781056
+    m_Localized: Select screen resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2401555775975424
+    m_Localized: 'Thanks!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606355129319424
+    m_Localized: Since last time, you built a proper boat with a sail.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606423223844864
+    m_Localized: The fishermen from your archipelago got trapped by the dangerous
+      wind. Bring them to safety!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

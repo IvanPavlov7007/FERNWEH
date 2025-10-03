@@ -1,0 +1,1 @@
+{"_rootDirectory":"C:\\C-Stuff\\UnityProjects\\Snow-Mountain-Playground\\Assets","_alwaysSave":[],"_alwaysSaveFull":[]}

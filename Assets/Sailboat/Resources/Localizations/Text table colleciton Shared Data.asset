@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Text table colleciton Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Text table colleciton
+  m_TableCollectionNameGuidString: a925357d044b5994b9dd7dfa6d57e733
+  m_Entries:
+  - m_Id: 219678528991232
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223046068563968
+    m_Key: Transition 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228932711313408
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243295719485440
+    m_Key: New Entry 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243434378981376
+    m_Key: New Entry 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243558148698112
+    m_Key: Level 0 Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243620861931520
+    m_Key: Level 0 Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243990623383552
+    m_Key: New Entry 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244062887047168
+    m_Key: Level 1 Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244274506461184
+    m_Key: New Entry 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244706813374464
+    m_Key: Level 1 Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244785913753600
+    m_Key: Level 2 Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245508030296064
+    m_Key: New Entry 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245527877742592
+    m_Key: Level 3 Tutorial hint boat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245592423886848
+    m_Key: Level 3 Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245622421549056
+    m_Key: Level 3 Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246017818587136
+    m_Key: New Entry 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246156402585600
+    m_Key: Level 4 Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252475809427456
+    m_Key: New Entry 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252491663896576
+    m_Key: New Entry 21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252513210036224
+    m_Key: New Entry 22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252531203600384
+    m_Key: New Entry 23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252922813181952
+    m_Key: New Entry 24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253040262082560
+    m_Key: New Entry 26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253216297021440
+    m_Key: Transition 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253342000312320
+    m_Key: New Entry 28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253416235298816
+    m_Key: Transition 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253461886103552
+    m_Key: Transition 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253617075351552
+    m_Key: Transition 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253673694261248
+    m_Key: Transition 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258462675070976
+    m_Key: New Entry 33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279766782406656
+    m_Key: New Entry 25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1730164340781056
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2401555775975424
+    m_Key: New Entry 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606355129319424
+    m_Key: Level 3 Tutorial hint 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4606423223844864
+    m_Key: Level 3 Tutorial hint 1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3342023973946261784
+  references:
+    version: 2
+    RefIds:
+    - rid: 3342023973946261784
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1757017237553
